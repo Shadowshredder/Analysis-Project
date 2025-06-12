@@ -1,10 +1,10 @@
-# 🍽️ Restaurant Data Analysis
+#  Restaurant Data Analysis
 
 This project explores various aspects of restaurant data to uncover trends in customer preferences, pricing, ratings, delivery options, and more. The tasks are divided into two levels — starting with basic insights and moving toward deeper analytical challenges.
 
 ---
 
-## ✅ Tasks Overview
+##  Tasks Overview
 
 ### 🔹 Task 1: City Analysis
 - Identified the city with the highest number of restaurants.
