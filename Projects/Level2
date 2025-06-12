@@ -1,0 +1,38 @@
+# 🍽️ Restaurant Data Analysis – Level 2
+
+This section builds on the previous tasks by exploring more complex relationships in the restaurant dataset. The focus is on cuisine patterns, location-based insights, and brand-level analysis.
+
+## ✅ Completed Tasks
+
+### 🔹 Task 5: Cuisine Combination
+- Found the most common combinations of cuisines served together in restaurants.
+- Explored whether specific cuisine combos tend to have better ratings than others.
+
+### 🔹 Task 6: Geographic Analysis
+- Mapped restaurant locations using their latitude and longitude.
+- Identified dense clusters and location-based trends in specific areas.
+
+### 🔹 Task 7: Restaurant Chains
+- Detected restaurant chains operating in multiple locations.
+- Analyzed average ratings and popularity (votes) of each chain.
+
+### 🔹 Task 8: Top Cuisines
+- Determined the top three most common cuisines in the dataset.
+- Calculated the percentage of restaurants offering each top cuisine.
+
+## 🛠️ Tools & Libraries Used
+- Python 🐍
+- Pandas 📊
+- Matplotlib & Seaborn 📈
+- Plotly / Folium (for maps) 🗺️
+
+## 📄 Dataset Overview
+- Includes data on:
+  - City and location coordinates
+  - Cuisines offered
+  - Ratings and votes
+  - Delivery options and price range
+
+---
+
+Explore the notebooks or scripts to see how each task was approached. Each analysis reveals new insights from the restaurant world!
