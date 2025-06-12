@@ -1,0 +1,42 @@
+# 🍽️ Restaurant Data Analysis – Level 1
+
+This repository contains a series of beginner-friendly data analysis tasks focused on restaurant data. Each task aims to extract meaningful insights using Python, Pandas, and visualization tools.
+
+## ✅ Completed Tasks
+
+### 🔹 Task 1: City Analysis
+- Identified the city with the highest number of restaurants.
+- Calculated the average rating of restaurants in each city.
+- Found the city with the highest average restaurant rating.
+
+### 🔹 Task 2: Price Range Distribution
+- Created a bar chart to show the distribution of price ranges.
+- Calculated the percentage of restaurants in each price range category.
+
+### 🔹 Task 3: Online Delivery
+- Determined the percentage of restaurants offering online delivery.
+- Compared average ratings between restaurants with and without online delivery.
+
+### 🔹 Task 4: Restaurant Ratings
+- Analyzed the distribution of restaurant ratings.
+- Identified the most common rating range.
+- Calculated the average number of votes received by restaurants.
+
+## 🛠️ Tools & Libraries
+- Python 🐍
+- Pandas 📊
+- Matplotlib 📈
+- Seaborn 📉
+
+## 📄 Dataset Information
+- Contains data on restaurants, including:
+  - City
+  - Cuisines
+  - Price range
+  - Aggregate rating
+  - Online delivery availability
+  - Number of votes
+
+---
+
+Feel free to check out each task folder or notebook to explore how the insights were generated.
